@@ -134,10 +134,9 @@ http://localhost:5000
 ---
 
 ## 📸 Screenshots
+Home Page
+<img width="1331" height="636" alt="Screenshot 2026-05-22 223116" src="https://github.com/user-attachments/assets/e5141a7f-3bf3-48aa-85a3-afba348bfc49" />
 
-
-
-Example:
 
 ```md
 ![Home Page](public/home.png)
